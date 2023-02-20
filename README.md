@@ -6,10 +6,11 @@ After the analysis, the most accurate model was found to be Ridge Regression wit
 
 ## Tools
 - Scikit Learn
-- SciPy
+- Synthetic Data Vault
 - PhiK
 - Pandas
 - Numpy
+- Feature Engine
 - Seaborn adn Matplotlib
 
 ## Deployment
